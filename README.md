@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulla</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="" width="100%">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullaabdulazeez" alt="abdullaabdulazeez" /></a> </p>
 
