@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **i can talk about cars 24/7**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/abdulla-abdul-azeez/</h3>
 <p align="left">
 </p>
 
