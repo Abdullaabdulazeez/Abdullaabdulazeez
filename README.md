@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullaabdulazeez" alt="abdullaabdulazeez" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://zesty-naiad-a061ff.netlify.app/](https://zesty-naiad-a061ff.netlify.app/)](https://66cecff55ca721034acd685b--stellar-mooncake-577765.netlify.app/)
+- 👨‍💻 All of my projects are available at https://66cecff55ca721034acd685b--stellar-mooncake-577765.netlify.app/
 
 - 💬 Ask me about **React, Node.js**
 
